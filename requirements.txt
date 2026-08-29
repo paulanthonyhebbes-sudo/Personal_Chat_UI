@@ -1,0 +1,5 @@
+# chat_ui.py dependencies
+# Install with: pip install -r requirements.txt
+
+gradio>=4.0
+openai>=1.0
